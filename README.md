@@ -62,7 +62,7 @@ $ npm run dev
 | `id`      | `int` | **Obrigatório**. O ID do curso que você quer |
 | `curso`      | `string` | **Obrigatório**. O nome atualizado do curso |
 
-#### Inseri um item
+#### Insere um item
 ```http
   POST /curso
 ```
